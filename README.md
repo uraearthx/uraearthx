@@ -1,2 +1,4 @@
- hi wip
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=leibgott,+my+dear!;Uranus+fictionkin+!)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="1073804c80ad96b246a169ef3608e3ee.jpg" width="400">
+</div>
